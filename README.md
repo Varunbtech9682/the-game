@@ -1,2 +1,1 @@
-# the-game
-Nazeer vetra the game
+# slicing-the-game
